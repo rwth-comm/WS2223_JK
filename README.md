@@ -3,6 +3,6 @@
 ## Forschungsfrage
 Welche Faktoren beeinflussen die Work-Life-Balance im Homeoffice?
 
-#### Faktorenraum
+### Faktorenraum
 
-#### Operationalisierung
+### Operationalisierung
