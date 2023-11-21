@@ -13,5 +13,19 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Forschungsfrage
 Welche Faktoren beeinflussen die Work-Life-Balance im Homeoffice?
 
+## Quellen
+
+s. Ordner "Quellen"
+
 ## Faktorenraum
 ![Faktorenraum](Readme_files/Homeoffice/Faktorenraum Homeoffice.png)
+
+## Operationalisierung "Work-Life-Balance"
+
+* **Stressempfinden** 
+
+* **Beurteilung der beruflichen Leistung**
+
+* **Allgemeine Erfahrungen mit Homeoffice**
+
+* **Vereinbarkeit von Beruf und Privatleben**

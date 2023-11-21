@@ -4,6 +4,10 @@
 
 Welche Faktoren beeinflussen die Work-Life-Balance im Homeoffice?
 
+## Quellen
+
+1.  Ordner “Quellen”
+
 ## Faktorenraum
 
 <figure>
@@ -11,3 +15,13 @@ Welche Faktoren beeinflussen die Work-Life-Balance im Homeoffice?
 alt="Faktorenraum" />
 <figcaption aria-hidden="true">Faktorenraum</figcaption>
 </figure>
+
+## Operationalisierung “Work-Life-Balance”
+
+-   **Stressempfinden**
+
+-   **Beurteilung der beruflichen Leistung**
+
+-   **Allgemeine Erfahrungen mit Homeoffice**
+
+-   **Vereinbarkeit von Beruf und Privatleben**
