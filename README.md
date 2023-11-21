@@ -1,3 +1,8 @@
-# WS2223_JK
+#Work-Life-Balance im Homeoffice
 
-#Testh
+#Forschungsfrage
+#Welche Faktoren beeinflussen die Work-Life-Balance im Homeoffice?
+
+#Faktorenraum
+
+#Operationalisierung
